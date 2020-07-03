@@ -8,11 +8,11 @@ body {
   padding: 0 .5em;
 }
 .footer {
-  background-color: white;
+  background-color: rgb(21, 162, 218);
   padding: 0 .5em;
 }
 .main {
-  background-color: #fff8d8;
+  background-color: white;
   padding: 1em;
 }
 h1 {
